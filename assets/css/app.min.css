@@ -1,0 +1,13 @@
+.wfe-products{list-style:none;padding-left:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}
+.wfe-products>li.wfe-product-item-wrap{-webkit-flex-basis:calc(100%);-ms-flex-preferred-size:calc(100%);flex-basis:calc(100%)}
+.wfe-products>li.wfe-product-item-wrap.wfe-col-2{-webkit-flex-basis:calc(100% / 2);-ms-flex-preferred-size:calc(100% / 2);flex-basis:calc(100% / 2)}
+.wfe-products>li.wfe-product-item-wrap.wfe-col-3{-webkit-flex-basis:calc(100% / 3);-ms-flex-preferred-size:calc(100% / 3);flex-basis:calc(100% / 3)}
+.wfe-products>li.wfe-product-item-wrap.wfe-col-4{-webkit-flex-basis:calc(100% / 4);-ms-flex-preferred-size:calc(100% / 4);flex-basis:calc(100% / 4)}
+.wfe-products>li.wfe-product-item-wrap.wfe-col-5{-webkit-flex-basis:calc(100% / 5);-ms-flex-preferred-size:calc(100% / 5);flex-basis:calc(100% / 5)}
+.wfe-products>li.wfe-product-item-wrap.wfe-col-6{-webkit-flex-basis:calc(100% / 6);-ms-flex-preferred-size:calc(100% / 6);flex-basis:calc(100% / 6)}
+.wfe-products>li.wfe-product-item-wrap .wfe-product-item .wfe-product-item__entry-header{position:relative}
+.wfe-products>li.wfe-product-item-wrap .wfe-product-item .wfe-product-item__entry-header .wfe-product-item__thumbnail{display:block;text-align:center}
+.wfe-products>li.wfe-product-item-wrap .wfe-product-item .wfe-product-item__entry-header .wfe-product-item__thumbnail .onsale{position:absolute;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}
+.wfe-products>li.wfe-product-item-wrap .wfe-product-item .wfe-product-item__entry-footer .wfe-product-item__add-to-cart{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}
+.wfe-products>li.wfe-product-item-wrap .wfe-product-item .wfe-product-item__entry-footer .wfe-product-item__add-to-cart>a{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}
+.wfe-products>li.wfe-product-item-wrap .wfe-product-item .wfe-product-item__entry-footer .wfe-product-item__add-to-cart>a.added{display:none}
